@@ -70,5 +70,8 @@
 
 .Root__main-view {
 	padding-bottom: 365px;
-	padding-left: 0;
+}
+
+[dir="ltr"] .Root__main-view {
+    padding-left: 0;
 }
