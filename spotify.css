@@ -1,0 +1,61 @@
+[class*="spoticon-"]::before {
+  font-size: 64px;
+}
+
+.control-button {
+  width: 128px;
+  min-width: 128px;
+  height: 128px;
+}
+
+.now-playing-bar {
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: auto;
+}
+
+[class*="now-playing-bar__"] {
+  width: 100%;
+  max-width: 100%;
+}
+
+.ExtraControls {
+  justify-content: center;
+}
+
+.now-playing {
+  justify-content: center;
+}
+
+.volume-bar {
+  width: 50%;
+}
+
+.now-playing-bar__center {
+  margin-top: 10px;
+  margin-bottom_ 10px;
+}
+
+.now-playing-bar__left {
+  margin-top: 8px;
+}
+
+.track-info__name {
+  font-size: 28px;
+  line-height: 30px;
+  letter-spacing: .01em;
+}
+
+.track-info__artists {
+  font-size: 24px;
+  line-height: 26px;
+  letter-spacing: .01em;
+}
+
+.playback-bar {
+  width: 85%;
+}
+
+.player-controls__buttons {
+  justify-content: center;
+}
