@@ -75,3 +75,7 @@
 [dir="ltr"] .Root__main-view {
     padding-left: 0;
 }
+
+.spoticon-heart-active-16::before {
+    visibility: collapse;
+}
