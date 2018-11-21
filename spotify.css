@@ -59,3 +59,16 @@
 .player-controls__buttons {
   justify-content: center;
 }
+
+.ConnectBar {
+	visibility: collapse;
+}
+
+.Root__nav-bar {
+	visibility: collapse;
+}
+
+.Root__main-view {
+	padding-bottom: 365px;
+	padding-left: 0;
+}
