@@ -79,3 +79,23 @@
 .spoticon-heart-active-16::before {
     visibility: collapse;
 }
+
+.progress-bar {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.progress-bar__bg {
+	border-radius: 8px;
+	height: 10px;
+}
+
+.progress-bar__fg {
+	border-radius: 8px;
+	height: 10px;
+}
+
+.playback-bar__progress-time {
+    font-size: 18px;
+    line-height: 20px;
+}
